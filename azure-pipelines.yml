@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'c42345f1-f5cb-43ce-9d73-38bcf4f75b27'
 
   # Function app name
-  functionAppName: 'Ecommerce.ConfigurationService'
+  functionAppName: 'EcommerceConfigurationService'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
